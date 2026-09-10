@@ -19,7 +19,7 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 - **Thème :*La culture Y2K*
 - **En une phrase :*Y2K Unity Fest c'est un festival qui rassemble une génération autour de la culture et l'esthétique des années 2000, dans un esprit festif et inclusif.*
-- **Blind test envisagé :**musique Y2K :
+- **Blind test envisagé :**Sur les chanteurs des années 2000:
     - No Scrubs — TLC
     - Yeah! — Usher
     - Toxic — Britney Spears
